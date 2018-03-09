@@ -33,6 +33,8 @@ setup(
     description=(
         "SocketIO server based on the Gevent pywsgi server, "
         "a Python network library"),
+    long_description=open(
+        os.path.join(os.path.dirname(__file__), 'README.rst')).read(),
     author="Jeffrey Gelens",
     author_email="jeffrey@noppo.pro",
     maintainer="Sebastian Pipping",
