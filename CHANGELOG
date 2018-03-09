@@ -1,6 +1,7 @@
-New in 0.3.6.post20180309 (since 0.3.6)
----------------------------------------
+New in 0.3.6.post201803091952 (since 0.3.6)
+-------------------------------------------
     * New maintenance repository on Github: https://github.com/hartwork/gevent-socketio
+    * setup.py: Auto-fill long description from README.rst
     * Travis: Do not ignore pip errors during setup
     * Travis/tox: Drop Python 2.7 and 3.3, add 3.5 and 3.6
     * Change log: Fix "Title underline too short" syntax issue
