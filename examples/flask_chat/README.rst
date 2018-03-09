@@ -1,7 +1,7 @@
 Flask Chat
 ==========
 
-Flask implementation of chat from `gevent-socketio <https://github.com/abourget/gevent-socketio>`_ examples.
+Flask implementation of chat from `gevent-socketio <https://github.com/hartwork/gevent-socketio>`_ examples.
 
 To Run this example, before you start you need to navigate to this folder and run:
 

@@ -162,7 +162,7 @@ Examples
 
 The ``gevent-socketio`` repository holds several examples:
 
-  https://github.com/abourget/gevent-socketio/tree/master/examples
+  https://github.com/hartwork/gevent-socketio/tree/master/examples
 
   * ``simple_chat`` is a bare-bone WSGI app with a minimal socketio integration
   * ``simple_pyramid_chat`` is a simple chat application built on Pyramid
@@ -310,17 +310,14 @@ Contacts
 
 For any questions, you can use the Issue tracking at Github:
 
-  https://github.com/abourget/gevent-socketio
-  https://github.com/abourget/gevent-socketio/issues
-
-The mailing list:
-
-  https://groups.google.com/forum/#!forum/gevent-socketio
+  https://github.com/hartwork/gevent-socketio/issues
+  (and https://github.com/abourget/gevent-socketio/issues)
 
 The maintainers:
 
-  https://twitter.com/bourgetalexndre
-  https://twitter.com/sontek
+  https://blog.hartwork.org/
+  (https://twitter.com/bourgetalexndre)
+  (https://twitter.com/sontek)
 
 
 Credits

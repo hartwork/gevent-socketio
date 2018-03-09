@@ -1,7 +1,7 @@
 Presentation
 ============
 
-.. image:: https://secure.travis-ci.org/abourget/gevent-socketio.png?branch=master
+.. image:: https://secure.travis-ci.org/hartwork/gevent-socketio.png?branch=master
 
 ``gevent-socketio`` is a Python implementation of the Socket.IO
 protocol, developed originally for Node.js by LearnBoost and then
@@ -17,7 +17,7 @@ Note: you need to use the ``gevent`` python WSGI server to use
 Community, rise up!
 ===================
 
-ANNOUNCEMENT: This project is in need of a solid maintainer to navigate through the 27+ open Pull Requests, merge what needs to be merged, and continue on with newer developments. @abourget is not putting as much time as he'd like on this project these days.  This project has nearly 1000 GitHub Stars.. it's used by major corporations. It's a great project for you to lead. Contact me on Twitter @bourgetalexndre to take more leadership.
+ANNOUNCEMENT: This project is in need of a solid maintainer to navigate through the 27+ open Pull Requests, merge what needs to be merged, and continue on with newer developments. @abourget is not putting as much time as he'd like on this project these days.  This project has nearly 1000 GitHub Stars.. it's used by major corporations. It's a great project for you to lead. Contact @abourget on Twitter @bourgetalexndre to take more leadership.
 
 
 Technical overview
@@ -36,18 +36,14 @@ You can read the renderered Sphinx docs at:
 
 * http://readthedocs.org/docs/gevent-socketio/en/latest/
 
-Discussion and questions happen on the mailing list:
+Discussion happen in the Github issue tracking:
 
-* https://groups.google.com/forum/#!forum/gevent-socketio
-
-or in the Github issue tracking:
-
-* https://github.com/abourget/gevent-socketio/issues
+* https://github.com/hartwork/gevent-socketio/issues
+* (and https://github.com/abourget/gevent-socketio/issues)
 
 You can also contact the maintainer:
 
-* https://twitter.com/#!/bourgetalexndre
-* https://plus.google.com/109333785244622657612
+* sebastian@pipping.org
 
 
 Installation
@@ -59,7 +55,7 @@ You can install with standard Python methods::
 
 or from source::
 
-   git clone git://github.com/abourget/gevent-socketio.git
+   git clone git://github.com/hartwork/gevent-socketio.git
    cd gevent-socketio
    python setup.py install
 

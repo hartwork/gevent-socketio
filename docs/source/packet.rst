@@ -173,7 +173,7 @@ arguments to the saved callback on the client side:
    "endpoint": '',
    "args": ['woot', 'wa']}
 
-To learn more, see the `test_packet.py <https://github.com/abourget/gevent-socketio/blob/master/tests/test_packet.py>`_ test cases.  It also shows the serialization that happens on the wire.
+To learn more, see the `test_packet.py <https://github.com/hartwork/gevent-socketio/blob/master/tests/test_packet.py>`_ test cases.  It also shows the serialization that happens on the wire.
 
 
 Other module members

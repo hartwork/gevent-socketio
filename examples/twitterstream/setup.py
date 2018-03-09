@@ -24,7 +24,7 @@ setup(name='twitterstream'
       ]
       , author='Philip Neustrom'
       , author_email='philipn@gmail.com'
-      , url='https://github.com/abourget/gevent-socketio'
+      , url='https://github.com/hartwork/gevent-socketio'
       , license='BSD'
       , packages=find_packages()
       , include_package_data=True
