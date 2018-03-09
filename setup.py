@@ -28,8 +28,8 @@ class PyTest(TestCommand):
         pytest.main(self.test_args)
 
 setup(
-    name="gevent-socketio",
-    version="0.3.6",
+    name="gevent-socketio-hartwork",
+    version="0.3.6.post20180309",
     description=(
         "SocketIO server based on the Gevent pywsgi server, "
         "a Python network library"),

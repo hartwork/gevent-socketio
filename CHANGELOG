@@ -1,3 +1,20 @@
+New in 0.3.6.post20180309 (since 0.3.6)
+---------------------------------------
+    * New maintenance repository on Github: https://github.com/hartwork/gevent-socketio
+    * Travis: Do not ignore pip errors during setup
+    * Travis/tox: Drop Python 2.7 and 3.3, add 3.5 and 3.6
+    * Change log: Fix "Title underline too short" syntax issue
+    * Update links from abourget to hartwork, drop Google group
+    * Add support for Django 1.10
+    * Drop support for Django 1.3
+    * Updated travis install command.
+    * Expanded Python test versions.
+    * Added tox configuration for running tests across multiple Python versiosn. Fixed Python3 support.
+    * Fixed import to support Django>=1.9.
+    * Leadership note.
+    * Travis script fix
+    * Full Python 2+3 support
+
 New in 0.3.6 (since 0.3.5-rc3)
 ------------------------------
 

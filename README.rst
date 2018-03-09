@@ -1,3 +1,32 @@
+PLEASE NOTE
+===========
+What you see here is a post-0.3.6 Git version of ``gevent-socketio``
+maintained by `Sebastian Pipping <https://github.com/hartwork>`_ (``@hartwork``)
+branded ``gevent-socketio-hartwork`` for distinction on PyPI.
+
+The idea is to deviate from upstream ``gevent-socketio`` as little as possible
+and mirror branch ``master`` unmodified.  Maintenance is done on
+`branch hartwork-master <https://github.com/hartwork/gevent-socketio/commits/hartwork-master>`_.
+
+Over release 0.3.6, these notable commits are included, from most recent to oldest:
+
+* `Add support for Django 1.10 <https://github.com/hartwork/gevent-socketio/commit/0e1d9d5d461530724522d12d592cde9fc68264a9>`_
+  by `Lucas Connors <https://github.com/RevolutionTech>`_ (``@RevolutionTech``)
+* `Drop support for Django 1.3 <https://github.com/hartwork/gevent-socketio/commit/9a6e024e056964c3d860316d5b13b295ed80d379>`_
+  by `Lucas Connors <https://github.com/RevolutionTech>`_ (``@RevolutionTech``)
+* `Fixed import to support Django>=1.9 <https://github.com/hartwork/gevent-socketio/commit/acf095b78208edb59b5873662653e12773add3cc>`_
+  by `Chris Spencer <https://github.com/chrisspen>`_ (``@chrisspen``)
+* `Leadership note <https://github.com/hartwork/gevent-socketio/commit/1c84627980c0b77f8f9005fdbcc916ca33d0e4d1>`_
+  by `Alexandre Bourget <https://github.com/abourget>`_ (``@abourget``)
+* `Full Python 2+3 support <https://github.com/hartwork/gevent-socketio/commit/12da9667deba432d8917129afab1daa86c20ec84>`_
+  by `Eugene Pankov <https://github.com/Eugeny>`_ (``@Eugeny``)
+
+The remainder of this document is the original documentation, except with
+links adjusted.  Enjoy.
+
+Sebastian Pipping
+
+
 Presentation
 ============
 
@@ -51,7 +80,7 @@ Installation
 
 You can install with standard Python methods::
 
-   pip install gevent-socketio
+   pip install gevent-socketio-hartwork
 
 or from source::
 
